@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wosxjEjrUWn2p69rMhpvfG0OSGvrsAFYL/Bb5nGS0jwBlO3qlDp1u2rEJKCRdrzunuspsMzlE7PNUG5WSC8gvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wisma\\Documents\\00 CODING\\VB .NET\\crud-1\\crud-1\\crud-1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wisma\\.nuget\\packages\\reportgenerator\\5.2.0\\reportgenerator.5.2.0.nupkg.sha512",
+    "C:\\Users\\wisma\\.nuget\\packages\\system.data.odbc\\7.0.0\\system.data.odbc.7.0.0.nupkg.sha512",
+    "C:\\Users\\wisma\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\wisma\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

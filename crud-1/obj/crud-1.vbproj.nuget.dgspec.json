@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wisma\\Documents\\00 CODING\\VB .NET\\crud-1\\crud-1\\crud-1.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wisma\\Documents\\00 CODING\\VB .NET\\crud-1\\crud-1\\crud-1.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wisma\\Documents\\00 CODING\\VB .NET\\crud-1\\crud-1\\crud-1.vbproj",
+        "projectName": "crud-1",
+        "projectPath": "C:\\Users\\wisma\\Documents\\00 CODING\\VB .NET\\crud-1\\crud-1\\crud-1.vbproj",
+        "packagesPath": "C:\\Users\\wisma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wisma\\Documents\\00 CODING\\VB .NET\\crud-1\\crud-1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wisma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows8.0": {
+            "targetAlias": "net6.0-windows8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows8.0": {
+          "targetAlias": "net6.0-windows8.0",
+          "dependencies": {
+            "ReportGenerator": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
